@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_API_RH_APONTAMENTO</CLSNAME>
+    <LANGU>P</LANGU>
+    <DESCRIPT>API para Apontamento de Horas</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>DELETE_FUNCIONARIO</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>DELETE Funcionario</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_APONTAMENTO</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>GET Apontamento</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_FUNCIONARIOS</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>GET Funcionarios</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_RELATORIO</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>GET Relatorio de Apontamentos</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>POST_APONTAMENTO</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>POST Apontamento</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>POST_FUNCIONARIO</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>POST Funcionario</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>PUT_APONTAMENTO</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>PUT Apontamento</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>PUT_FUNCIONARIO</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>PUT Funcionario</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
